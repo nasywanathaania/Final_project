@@ -71,3 +71,7 @@ Terkoneksi ke SQLITE JDBC
 - Transaksi
 - 
 ![image](https://user-images.githubusercontent.com/83463202/135702106-cef4df17-af53-4f80-9654-ba59e87726e5.png)
+
+-------------------------------------------
+U also can download this project and some tools, with the direct link below:
+https://drive.google.com/drive/folders/1GW4c9UKFNPqaKOqOufaQT0pkTtMXnphC?usp=sharing
