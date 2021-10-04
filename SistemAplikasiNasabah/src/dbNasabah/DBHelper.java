@@ -44,7 +44,6 @@ public class DBHelper {
         return conn;
     }
 
-    //ErrorCode
     public static void createTable(Connection conn, String driver) throws SQLException {
         String sqlCreate = "";
         switch (driver) {
